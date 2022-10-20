@@ -43,8 +43,23 @@ input[type="range"]::-webkit-slider-thumb {
   cursor: hand;
   margin-top: -0.1rem;
 }
+h1 {
+  text-shadow: 0.2px 0.2px 14px #ff9514;
+}
+h2 {
+  text-shadow: 0.2px 0.2px 14px #e4ff14;
+}
+h3 {
+  text-shadow: 0.2px 0.2px 14px #14ffe0;
+}
 h4 {
-  text-shadow: 0.2px 0.2px 14px #ff1493;
+  text-shadow: 0.2px 0.2px 14px #2714ff;
+}
+h5 {
+  text-shadow: 0.2px 0.2px 14px #14dcff64;
+}
+h6 {
+  text-shadow: 0.2px 0.2px 14px #c0a98ad1;
 }
 .css {
   background-color: blue;
